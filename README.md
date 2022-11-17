@@ -5,6 +5,6 @@ I used HTML, CSS, Javascript & jQuery.
 
 Here is the link where will be posted:
 
-......... in developing ........
+https://astounding-flan-f4ff8f.netlify.app
 
 Thank you!
