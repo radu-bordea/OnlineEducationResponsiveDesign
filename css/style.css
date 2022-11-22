@@ -241,7 +241,7 @@ header .fa-times{
 
 
 .about .row .content{
-    padding-left: 5rem;
+    padding:0 5rem;
 }
 
 .about .row .content h3{
